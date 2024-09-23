@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
       moveSlide(1);
     });
   
-    // Initialize carousel
+    // Initialize the carousel
     showSlide(currentSlide);
   
     // Auto-slide every 5 seconds
